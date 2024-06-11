@@ -32,7 +32,7 @@ public class CustomPainting {
     static {
         PAINTINGS.put(1, new CustomPainting(1, 1, new int[]{1}));
         PAINTINGS.put(2, new CustomPainting(2, 1, new int[]{2, 3}));
-        PAINTINGS.put(3, new CustomPainting(2, 2, new int[]{4, 5, 6}));
+        PAINTINGS.put(3, new CustomPainting(2, 2, new int[]{4, 5, 6, 7}));
         // Add more paintings as needed
     }
 }
