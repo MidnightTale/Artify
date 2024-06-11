@@ -1,0 +1,4 @@
+name: Artify
+version: '${version}'
+main: net.hynse.artify.Artify
+api-version: '1.20'
